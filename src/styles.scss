@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+$primaryColor: #ff9238;
+$secondaryColor: #3ec992;
+$fontColor: #8631ad;
+
+html, body {
+  background-color: $secondaryColor;
+}

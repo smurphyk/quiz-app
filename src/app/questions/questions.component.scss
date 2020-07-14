@@ -1,7 +1,16 @@
+$primaryColor: #ff9238;
+$secondaryColor: #3ec992;
+$fontColor: #8631ad;
+
 .quiz-card {
+  color: $fontColor;
+  font-weight: bold;
+  font-size: 120%;
   margin: 6rem auto;
   width: 40%;
-  background-color: lighten(#0F4C81, 68%);
+  background-color: $primaryColor;
+  border: 8px groove $fontColor;
+  border-radius: 15px;
   padding: 3rem;
 }
 
@@ -9,8 +18,9 @@
 margin: 6rem auto;
 width: 50%;
 }
-.quiz-title {
+.quiz-name {
+text-align: center;
 margin: 0 auto;
-width: 30%;
+width: 35%;
 font-size: 3rem;
 }
