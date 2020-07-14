@@ -5,3 +5,7 @@ $fontColor: #8631ad;
 html, body {
   background-color: $secondaryColor;
 }
+
+.mat-radio-outer-circle {
+  display: none;
+}
