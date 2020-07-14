@@ -12,10 +12,10 @@
       <div class="result-div">
         <p class="result-number">{{i+1}}.</p>
         <div class="results-correct-div" *ngIf="a.correct; else incorrect"><img class="icon"
-            src="../../assets/images/success.svg"> {{a.value}} </div>
+            src="../../assets/success.svg"> {{a.value}} </div>
         <ng-template #incorrect>
           <div class="results-incorrect-div">
-            <img class="icon" src="../../assets/images/error.svg"> {{a.value}}
+            <img class="icon" src="../../assets/error.svg"> {{a.value}}
           </div>
           <div class="correct-choice">Correct choice: <span class="correct-value">{{correctChoice[i]}}</span></div>
         </ng-template>
