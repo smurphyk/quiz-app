@@ -1,0 +1,107 @@
+[
+  {
+    "label": "How do you say 'Hello' in French?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": false
+      },
+      {
+        "value": "Bonjour",
+        "correct": true
+      },
+      {
+        "value": "Tant pis",
+        "correct": false
+      },
+      {
+        "value": "Salut!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How do you say 'Goodbye' in French?",
+    "choices": [
+      {
+        "value": "Au revoir",
+        "correct": true
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      },
+      {
+        "value": "Tant pis",
+        "correct": false
+      },
+      {
+        "value": "Salut!",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How do you say 'My name is Carl' in French?",
+    "choices": [
+      {
+        "value": "Je suis Carl",
+        "correct": false
+      },
+      {
+        "value": "Tu t'appelle Carl",
+        "correct": false
+      },
+      {
+        "value": "Je m'appelle Carl",
+        "correct": true
+      },
+      {
+        "value": "J'aime Carl",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How do you say 'Such is life' in French?",
+    "choices": [
+      {
+        "value": "C'est la vie",
+        "correct": true
+      },
+      {
+        "value": "La vie est belle",
+        "correct": false
+      },
+      {
+        "value": "Qu'est ce que la vie",
+        "correct": false
+      },
+      {
+        "value": "C'est la mort",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "How do you say 'This app is amazing' in French?",
+    "choices": [
+      {
+        "value": "Cette application est incroyable",
+        "correct": true
+      },
+      {
+        "value": "Cette application est incroyable",
+        "correct": true
+      },
+      {
+        "value": "Cette application est incroyable",
+        "correct": true
+      },
+      {
+        "value": "Cette application est incroyable",
+        "correct": true
+      }
+    ]
+  }
+]
